@@ -1,0 +1,1 @@
+<jsp:forward page="/AlienInfo.do"></jsp:forward>
